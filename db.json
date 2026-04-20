@@ -1,0 +1,21 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Julio",
+      "email": "julio@email.com",
+      "senha": "123456"
+    }
+  ],
+  "tarefas": [
+    {
+      "usuarioId": 1,
+      "titulo": "hrhfhd",
+      "descricao": "Gdgsgs",
+      "prioridade": "Alta",
+      "horario": "14:00",
+      "concluida": true,
+      "id": 1
+    }
+  ]
+}
