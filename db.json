@@ -7,15 +7,33 @@
       "senha": "123456"
     }
   ],
-  "tarefas": [
+  "treinos": [
+    {
+      "id": 1,
+      "usuarioId": 1,
+      "titulo": "Treino de peito e triceps",
+      "descricao": "Supino reto, crucifixo e mergulho com foco em resistencia.",
+      "intensidade": "Alta",
+      "horario": "06:30",
+      "concluido": false
+    },
+    {
+      "id": 2,
+      "usuarioId": 1,
+      "titulo": "Cardio intervalado",
+      "descricao": "20 minutos alternando corrida leve e tiros curtos.",
+      "intensidade": "Media",
+      "horario": "18:45",
+      "concluido": true
+    },
     {
       "usuarioId": 1,
-      "titulo": "hrhfhd",
-      "descricao": "Gdgsgs",
-      "prioridade": "Alta",
-      "horario": "14:00",
-      "concluida": true,
-      "id": 1
+      "titulo": "qqqqqqqqq",
+      "descricao": "hghghghghgh",
+      "horario": "19:00",
+      "intensidade": "Alta",
+      "concluido": true,
+      "id": 3
     }
   ]
 }

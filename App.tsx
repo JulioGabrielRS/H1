@@ -1,3 +1,4 @@
+{/* É a porta de entrada do app*/}
 import React, { useState } from "react";
 import { StatusBar } from "expo-status-bar";
 import LoginScreen from "./src/screens/LoginScreen";

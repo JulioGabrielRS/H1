@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Organizacao de Rotina",
-    "slug": "organizacao-rotina",
+    "name": "Agenda de Treinos",
+    "slug": "agenda-de-treinos",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
